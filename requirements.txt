@@ -1,2 +1,2 @@
 evdev
-oot==0.0.1
+git+https://github.com/tegin/oot@0.0.1
