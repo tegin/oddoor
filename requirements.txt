@@ -1,2 +1,2 @@
 evdev
-git+https://github.com/tegin/oot@0.0.1#egg=oot
+git+https://github.com/tegin/oot@0.0.2#egg=oot
