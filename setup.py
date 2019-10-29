@@ -13,7 +13,6 @@ except ImportError:
 
 
 install_reqs = parse_requirements("requirements.txt", session=PipSession())
-
 install_requires = [str(ir.req) for ir in install_reqs]
 
 setup(
